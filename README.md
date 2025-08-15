@@ -46,24 +46,11 @@ Imagine Cup 2023 (Health) World Finalist. AI-powered reminders, health tracking,
 
 ---
 
-## 🏆 Trophies & Stats
+## 🏆 Stats
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Selms4&no-bg=true&no-frame=true&margin-w=10" alt="trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Selms4&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues" alt="stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selms4&layout=compact&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Selms4&hide_border=true" alt="streak" />
 </p>
 
 ---
