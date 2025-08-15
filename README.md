@@ -1,14 +1,3 @@
-<!-- Profile badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Selms4&label=Profile%20views&style=flat" alt="profile views" />
-  <a href="https://github.com/Selms4?tab=followers">
-    <img src="https://img.shields.io/github/followers/Selms4?label=Followers&style=flat" alt="followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/selmamemic4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Selma%20Memi%C4%87-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
 <h1 align="center">Hi, I'm Selma Memić 👋</h1>
 
 <p align="center">
@@ -17,7 +6,7 @@ I love building with <b>AI/ML</b>, <b>IoT</b>, and solid <b>project management</
 </p>
 
 <p align="center">
-  📍 Konjic, Bosnia & Herzegovina · ✉️ <a href="mailto:selma.memic@studio.unibo.it">selma.memic@studio.unibo.it</a>
+  📍 Konjic, Bosnia & Herzegovina · ✉️ <a href="mailto:selma.memic@edu.fit.ba">selma.memic@edu.fit.ba</a>
 </p>
 
 ---
@@ -34,9 +23,9 @@ I love building with <b>AI/ML</b>, <b>IoT</b>, and solid <b>project management</
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 
@@ -85,12 +74,11 @@ AI web app predicting delivery time from factors like distance, traffic, weather
 Educational notebooks implementing substitution (Caesar/Monoalphabetic/Vigenère), block (DES/AES, ECB/CBC), and stream (LFSR, XOR) ciphers.  
 <b>Tech:</b> Python, Jupyter, NumPy, Matplotlib · Frequency analysis & demos.
 
-### 🔹 IoT Metronome — Raspberry Pi
+### 🔹 <a href="https://github.com/Selms4/IOT_Metronome">IoT Metronome — Raspberry Pi</a>
 Course lab for <i>Programming the Internet of Things</i>. LEDs + buttons + REST control, plus VSS integration.  
 <b>Tech:</b> Python, Flask (REST), Raspberry Pi GPIO, HTTP/JSON.  
-<!-- TODO: Add repository link once published -->
 
-### 🔹 Mimea — Smart Mirror for Dementia Care
+### 🔹 <a href="https://imaginecup.microsoft.com/en-us/Team/7a18b04f-99bc-4f47-a262-c962f38373ec">Mimea — Smart Mirror for Dementia Care</a>
 Imagine Cup 2023 (Health) World Finalist. AI-powered reminders, health tracking, voice control & facial recognition.  
 <b>Role:</b> Project Manager & Developer · Multicultural team, UX, AI integration.
 
@@ -120,4 +108,4 @@ Imagine Cup 2023 (Health) World Finalist. AI-powered reminders, health tracking,
 
 ## 📫 Contact
 - LinkedIn: <a href="https://www.linkedin.com/in/selmamemic4/">linkedin.com/in/selmamemic4</a>  
-- Email: <a href="mailto:selma.memic@studio.unibo.it">selma.memic@studio.unibo.it</a>
+- Email: <a href="mailto:selma.memic@edu.fit.ba">selma.memic@edu.fit.ba</a>
