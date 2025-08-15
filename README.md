@@ -42,7 +42,7 @@ Course lab for <i>Programming the Internet of Things</i>. LEDs + buttons + REST 
 
 ### 🔹 <a href="https://imaginecup.microsoft.com/en-us/Team/7a18b04f-99bc-4f47-a262-c962f38373ec">Mimea — Smart Mirror for Dementia Care</a>
 Imagine Cup 2023 (Health) World Finalist. AI-powered reminders, health tracking, voice control & facial recognition.  
-<b>Role:</b> Project Manager & Developer · Multicultural team, UX, AI integration.
+<b>Role:</b> Project Manager & Developer · UX, AI integration.
 
 ---
 
