@@ -55,6 +55,21 @@ Imagine Cup 2023 (Health) World Finalist. AI-powered reminders, health tracking,
 
 ---
 
+## Awards & Achievements 🏆
+
+**FIT Coding Challenge – 1st Place (Smart Living and Innovations)**  
+Issued by Fakultet informacijskih tehnologija Mostar · Jun 2023  
+
+**Imagine Cup Winner – Health Category (2023 Online Semifinals)**  
+Issued by Microsoft Imagine Cup · Mar 2023  
+[Winner Certificate](https://imaginecup.microsoft.com/en-US/Member/WinnerCertificate?userid=WBYBYcovOZNYS9XLiLsr5Q%253d%253d&compId=j5la%252fgnlAJ9IHhMQYAr0MA%253d%253d&teamId=BTfzeKZeapzo4ebGzUX7dQ%253d%253d)  
+
+**Viral Hackathon 2022 – 3rd Place**  
+Issued by viralerasmus.org · May 2022  
+[Hackathon Report](http://viralerasmus.org/wp-content/uploads/2022/05/Izvestaj_Viral-Hakaton-2022_fin.pdf)
+
+---
+
 ## 📫 Contact
 - LinkedIn: <a href="https://www.linkedin.com/in/selmamemic4/">linkedin.com/in/selmamemic4</a>  
 - Email: <a href="mailto:selma.memic@edu.fit.ba">selma.memic@edu.fit.ba</a>
