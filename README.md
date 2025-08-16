@@ -72,4 +72,4 @@ Issued by viralerasmus.org · May 2022
 
 ## 📫 Contact
 - LinkedIn: <a href="https://www.linkedin.com/in/selmamemic4/">linkedin.com/in/selmamemic4</a>  
-- Email: <a href="mailto:selma.memic@edu.fit.ba">selma.memic@edu.fit.ba</a>
+- Email: <a href="mailto:selmamemic3@gmail.com">selmamemic3@gmail.com</a>
