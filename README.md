@@ -6,7 +6,7 @@ I love building with <b>AI/ML</b>, <b>IoT</b>, and solid <b>project management</
 </p>
 
 <p align="center">
-  📍 Konjic, Bosnia & Herzegovina · ✉️ <a href="mailto:selma.memic@edu.fit.ba">selma.memic@edu.fit.ba</a>
+  📍 Konjic, Bosnia & Herzegovina · ✉️ <a href="mailto:selmamemic3@gmail.com">selmamemic3@gmail.com</a>
 </p>
 
 ---
