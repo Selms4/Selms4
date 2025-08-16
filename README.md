@@ -6,7 +6,7 @@ I love building with <b>AI/ML</b>, <b>IoT</b>, and solid <b>project management</
 </p>
 
 <p align="center">
-  📍 Konjic, Bosnia & Herzegovina · ✉️ <a href="mailto:selmamemic3@gmail.com">selmamemic3@gmail.com</a>
+  📍 Konjic, Bosnia & Herzegovina · ✉️ <a href="mailto:selmamemic442@gmail.com">selmamemic442@gmail.com</a>
 </p>
 
 ---
@@ -72,4 +72,4 @@ Issued by viralerasmus.org · May 2022
 
 ## 📫 Contact
 - LinkedIn: <a href="https://www.linkedin.com/in/selmamemic4/">linkedin.com/in/selmamemic4</a>  
-- Email: <a href="mailto:selmamemic3@gmail.com">selmamemic3@gmail.com</a>
+- Email: <a href="mailto:selmamemic442@gmail.com">selmamemic442@gmail.com</a>
