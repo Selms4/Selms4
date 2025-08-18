@@ -50,7 +50,7 @@ Imagine Cup 2023 (Health) World Finalist. AI-powered reminders, health tracking,
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selms4&layout=compact&langs_count=8" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selma-memic&layout=compact&langs_count=8" alt="top languages" />
 </p>
 
 ---
