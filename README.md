@@ -8,9 +8,10 @@ I love building with <b>AI/ML</b>, <b>IoT</b>, and solid <b>project management</
 <p align="center">
   📍 Konjic, Bosnia & Herzegovina · ✉️ <a href="mailto:memic-selma@outlook.com">memic-selma@outlook.com</a>
 </p>
-<p align="center">
-  ## My portfolio <a href="https://selma-memic.github.io/portfolio/">here</a>!🖥️🚀🎨📚
-</p>
+<h2 align="center">
+  My portfolio <a href="https://selma-memic.github.io/portfolio/">here</a>!💻🎨✨📖🌟
+</h2>
+
 ---
 
 ## 🚀 About Me
